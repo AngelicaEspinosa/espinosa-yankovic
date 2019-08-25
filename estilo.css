@@ -169,7 +169,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 
 
 .integrante:nth-of-type(2){
-    background:#white;
+    background:white;
     background-image:url('media/integrante-2a.jpg');
     background-position: bottom left;
     background-size:auto 100%;
